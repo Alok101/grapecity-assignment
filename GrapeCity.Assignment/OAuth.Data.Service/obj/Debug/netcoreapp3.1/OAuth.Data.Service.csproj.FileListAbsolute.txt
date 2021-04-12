@@ -1,0 +1,12 @@
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\bin\Debug\netcoreapp3.1\OAuth.Data.Service.deps.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\bin\Debug\netcoreapp3.1\OAuth.Data.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\bin\Debug\netcoreapp3.1\OAuth.Data.Service.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\obj\Debug\netcoreapp3.1\OAuth.Data.Service.csprojAssemblyReference.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\obj\Debug\netcoreapp3.1\OAuth.Data.Service.AssemblyInfoInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\obj\Debug\netcoreapp3.1\OAuth.Data.Service.AssemblyInfo.cs
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\obj\Debug\netcoreapp3.1\OAuth.Data.Service.csproj.CoreCompileInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\obj\Debug\netcoreapp3.1\OAuth.Data.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\obj\Debug\netcoreapp3.1\OAuth.Data.Service.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\bin\Debug\netcoreapp3.1\OAuth.Data.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\bin\Debug\netcoreapp3.1\OAuth.Data.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Service\obj\Debug\netcoreapp3.1\OAuth.Data.Service.csproj.CopyComplete

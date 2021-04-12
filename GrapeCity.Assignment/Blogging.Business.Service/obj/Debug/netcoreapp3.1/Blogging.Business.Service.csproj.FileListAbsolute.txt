@@ -1,0 +1,16 @@
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\obj\Debug\netcoreapp3.1\Blogging.Business.Service.csprojAssemblyReference.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\obj\Debug\netcoreapp3.1\Blogging.Business.Service.AssemblyInfoInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\obj\Debug\netcoreapp3.1\Blogging.Business.Service.AssemblyInfo.cs
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\obj\Debug\netcoreapp3.1\Blogging.Business.Service.csproj.CoreCompileInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\bin\Debug\netcoreapp3.1\Blogging.Business.Service.deps.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\bin\Debug\netcoreapp3.1\Blogging.Business.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\bin\Debug\netcoreapp3.1\Blogging.Business.Service.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\bin\Debug\netcoreapp3.1\Blogging.Business.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\bin\Debug\netcoreapp3.1\Blogging.Data.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\bin\Debug\netcoreapp3.1\Blogging.Data.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\bin\Debug\netcoreapp3.1\Blogging.Business.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\bin\Debug\netcoreapp3.1\Blogging.Data.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\bin\Debug\netcoreapp3.1\Blogging.Data.Service.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\obj\Debug\netcoreapp3.1\Blogging.Business.Service.csproj.CopyComplete
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\obj\Debug\netcoreapp3.1\Blogging.Business.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Business.Service\obj\Debug\netcoreapp3.1\Blogging.Business.Service.pdb

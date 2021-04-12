@@ -1,0 +1,9 @@
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Contract\bin\Debug\netcoreapp3.1\OAuth.Business.Contract.deps.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Contract\bin\Debug\netcoreapp3.1\OAuth.Business.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Contract\bin\Debug\netcoreapp3.1\OAuth.Business.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Contract\obj\Debug\netcoreapp3.1\OAuth.Business.Contract.csprojAssemblyReference.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Contract\obj\Debug\netcoreapp3.1\OAuth.Business.Contract.AssemblyInfoInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Contract\obj\Debug\netcoreapp3.1\OAuth.Business.Contract.AssemblyInfo.cs
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Contract\obj\Debug\netcoreapp3.1\OAuth.Business.Contract.csproj.CoreCompileInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Contract\obj\Debug\netcoreapp3.1\OAuth.Business.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Contract\obj\Debug\netcoreapp3.1\OAuth.Business.Contract.pdb

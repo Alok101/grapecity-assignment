@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OAuth.Business.Contract\OAuth.Business.Contract.csproj" />
+    <ProjectReference Include="..\OAuth.Data.Contract\OAuth.Data.Contract.csproj" />
+    <ProjectReference Include="..\OAuth.Data.Service\OAuth.Data.Service.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,464 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Server\\OAuth.Server.csproj": {}
+  },
+  "projects": {
+    "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\Blogging.Data.Contract\\Blogging.Data.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\Blogging.Data.Contract\\Blogging.Data.Contract.csproj",
+        "projectName": "Blogging.Data.Contract",
+        "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\Blogging.Data.Contract\\Blogging.Data.Contract.csproj",
+        "packagesPath": "C:\\Users\\Alok Gautam\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\Blogging.Data.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alok Gautam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Contract\\OAuth.Business.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Contract\\OAuth.Business.Contract.csproj",
+        "projectName": "OAuth.Business.Contract",
+        "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Contract\\OAuth.Business.Contract.csproj",
+        "packagesPath": "C:\\Users\\Alok Gautam\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alok Gautam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Service\\OAuth.Business.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Service\\OAuth.Business.Service.csproj",
+        "projectName": "OAuth.Business.Service",
+        "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Service\\OAuth.Business.Service.csproj",
+        "packagesPath": "C:\\Users\\Alok Gautam\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alok Gautam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Contract\\OAuth.Business.Contract.csproj": {
+                "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Contract\\OAuth.Business.Contract.csproj"
+              },
+              "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\OAuth.Data.Contract.csproj": {
+                "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\OAuth.Data.Contract.csproj"
+              },
+              "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Service\\OAuth.Data.Service.csproj": {
+                "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Service\\OAuth.Data.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\OAuth.Data.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\OAuth.Data.Contract.csproj",
+        "projectName": "OAuth.Data.Contract",
+        "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\OAuth.Data.Contract.csproj",
+        "packagesPath": "C:\\Users\\Alok Gautam\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alok Gautam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Service\\OAuth.Data.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Service\\OAuth.Data.Service.csproj",
+        "projectName": "OAuth.Data.Service",
+        "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Service\\OAuth.Data.Service.csproj",
+        "packagesPath": "C:\\Users\\Alok Gautam\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alok Gautam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\OAuth.Data.Contract.csproj": {
+                "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\OAuth.Data.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Server\\OAuth.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Server\\OAuth.Server.csproj",
+        "projectName": "OAuth.Server",
+        "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Server\\OAuth.Server.csproj",
+        "packagesPath": "C:\\Users\\Alok Gautam\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alok Gautam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\Blogging.Data.Contract\\Blogging.Data.Contract.csproj": {
+                "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\Blogging.Data.Contract\\Blogging.Data.Contract.csproj"
+              },
+              "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Contract\\OAuth.Business.Contract.csproj": {
+                "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Contract\\OAuth.Business.Contract.csproj"
+              },
+              "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Service\\OAuth.Business.Service.csproj": {
+                "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Business.Service\\OAuth.Business.Service.csproj"
+              },
+              "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\OAuth.Data.Contract.csproj": {
+                "projectPath": "E:\\Programming\\GrapeCity\\GrapeCity.Assignment\\OAuth.Data.Contract\\OAuth.Data.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\bin\Debug\netcoreapp3.1\Blogging.Data.Contract.deps.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\bin\Debug\netcoreapp3.1\Blogging.Data.Contract.runtimeconfig.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\bin\Debug\netcoreapp3.1\Blogging.Data.Contract.runtimeconfig.dev.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\bin\Debug\netcoreapp3.1\Blogging.Data.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\bin\Debug\netcoreapp3.1\Blogging.Data.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\obj\Debug\netcoreapp3.1\Blogging.Data.Contract.AssemblyInfoInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\obj\Debug\netcoreapp3.1\Blogging.Data.Contract.AssemblyInfo.cs
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\obj\Debug\netcoreapp3.1\Blogging.Data.Contract.csproj.CoreCompileInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\obj\Debug\netcoreapp3.1\Blogging.Data.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\obj\Debug\netcoreapp3.1\Blogging.Data.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Contract\obj\Debug\netcoreapp3.1\Blogging.Data.Contract.genruntimeconfig.cache

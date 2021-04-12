@@ -1,0 +1,16 @@
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\bin\Debug\netcoreapp3.1\OAuth.Business.Service.deps.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\bin\Debug\netcoreapp3.1\OAuth.Business.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\bin\Debug\netcoreapp3.1\OAuth.Business.Service.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\bin\Debug\netcoreapp3.1\OAuth.Business.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\bin\Debug\netcoreapp3.1\OAuth.Business.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\obj\Debug\netcoreapp3.1\OAuth.Business.Service.csprojAssemblyReference.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\obj\Debug\netcoreapp3.1\OAuth.Business.Service.AssemblyInfoInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\obj\Debug\netcoreapp3.1\OAuth.Business.Service.AssemblyInfo.cs
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\obj\Debug\netcoreapp3.1\OAuth.Business.Service.csproj.CoreCompileInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\obj\Debug\netcoreapp3.1\OAuth.Business.Service.csproj.CopyComplete
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\obj\Debug\netcoreapp3.1\OAuth.Business.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\obj\Debug\netcoreapp3.1\OAuth.Business.Service.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\bin\Debug\netcoreapp3.1\OAuth.Data.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\bin\Debug\netcoreapp3.1\OAuth.Data.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\bin\Debug\netcoreapp3.1\OAuth.Data.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Business.Service\bin\Debug\netcoreapp3.1\OAuth.Data.Service.pdb

@@ -1,0 +1,12 @@
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\bin\Debug\netcoreapp3.1\OAuth.Data.Contract.deps.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\bin\Debug\netcoreapp3.1\OAuth.Data.Contract.runtimeconfig.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\bin\Debug\netcoreapp3.1\OAuth.Data.Contract.runtimeconfig.dev.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\bin\Debug\netcoreapp3.1\OAuth.Data.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\bin\Debug\netcoreapp3.1\OAuth.Data.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\obj\Debug\netcoreapp3.1\OAuth.Data.Contract.csprojAssemblyReference.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\obj\Debug\netcoreapp3.1\OAuth.Data.Contract.AssemblyInfoInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\obj\Debug\netcoreapp3.1\OAuth.Data.Contract.AssemblyInfo.cs
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\obj\Debug\netcoreapp3.1\OAuth.Data.Contract.csproj.CoreCompileInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\obj\Debug\netcoreapp3.1\OAuth.Data.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\obj\Debug\netcoreapp3.1\OAuth.Data.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\OAuth.Data.Contract\obj\Debug\netcoreapp3.1\OAuth.Data.Contract.genruntimeconfig.cache

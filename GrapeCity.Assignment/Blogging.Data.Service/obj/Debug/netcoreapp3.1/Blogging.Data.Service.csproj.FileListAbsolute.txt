@@ -1,0 +1,12 @@
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\bin\Debug\netcoreapp3.1\Blogging.Data.Service.deps.json
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\bin\Debug\netcoreapp3.1\Blogging.Data.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\bin\Debug\netcoreapp3.1\Blogging.Data.Service.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\bin\Debug\netcoreapp3.1\Blogging.Data.Contract.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\bin\Debug\netcoreapp3.1\Blogging.Data.Contract.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\obj\Debug\netcoreapp3.1\Blogging.Data.Service.AssemblyInfoInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\obj\Debug\netcoreapp3.1\Blogging.Data.Service.AssemblyInfo.cs
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\obj\Debug\netcoreapp3.1\Blogging.Data.Service.csproj.CoreCompileInputs.cache
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\obj\Debug\netcoreapp3.1\Blogging.Data.Service.csproj.CopyComplete
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\obj\Debug\netcoreapp3.1\Blogging.Data.Service.dll
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\obj\Debug\netcoreapp3.1\Blogging.Data.Service.pdb
+E:\Programming\GrapeCity\GrapeCity.Assignment\Blogging.Data.Service\obj\Debug\netcoreapp3.1\Blogging.Data.Service.csprojAssemblyReference.cache
